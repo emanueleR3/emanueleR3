@@ -7,7 +7,8 @@
 ## 💫 About Me
 
 🔧 **Currently working on:**  
-I initially started taking on small freelance website projects independently to gain hands-on experience and grow as a developer.
+I initially started taking on small freelance website projects independently to gain hands-on experience and grow as a developer.  
+📂 Check out [**My Projects**](https://linktr.ee/lefweb) to explore my portfolio.
 
 🤝 **Looking to collaborate on:**  
 Projects related to AI, AI automations (workflows and agents), and innovative software integrations.
