@@ -13,9 +13,6 @@ I initially started taking on small freelance website projects independently to 
 🤝 **Looking to collaborate on:**  
 Projects related to AI, AI automations (workflows and agents), and innovative software integrations.
 
-❓ **Open to guidance on:**  
-Automating costly business production processes through AI agents and data analysis.
-
 📚 **Currently studying:**  
 Advanced AI technologies, Applied Machine Learning, and LLM4SE for workflows and AI agents.
 
