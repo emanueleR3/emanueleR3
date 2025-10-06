@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Emanuele Romano**
 
-🎓 I'm currently pursuing a Master's Degree in Computer Engineering, specializing in **Artificial Intelligence and Data Analysis** at the Polytechnic University of Turin.
+🎓 I'm currently pursuing a Master's Degree in Computer Engineering, specializing in **Artificial Intelligence and Data Analytics** at Politecnico di Torino.
 
 ---
 
