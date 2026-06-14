@@ -1,29 +1,31 @@
 # 👋 Hi, I'm **Emanuele Romano**
 
-🎓 I'm currently pursuing a Master's Degree in Computer Engineering, specializing in **Artificial Intelligence and Data Analytics** at Politecnico di Torino.
+**AI & Software Engineer** — I design and ship production AI systems, from the LLM layer down to cloud deployment.
+
+🎓 Master's student in Computer Engineering, specializing in **Artificial Intelligence & Data Analytics** at Politecnico di Torino.
 
 ---
 
 ## 💫 About Me
 
 🔧 **Currently working on:**  
-I first began by independently taking on small freelance website projects to build practical experience and develop my skills as a developer. Today, I focus on creating automation workflows, AI-powered voice assistants (Vapi, ElevenLabs), and agentic AI solutions for companies, often deployed in scalable cloud-native environments using Docker and Kubernetes.
+Production AI systems, end to end: automation workflows, agentic solutions, and AI voice assistants (Vapi, ElevenLabs), deployed on cloud-native infrastructure with Docker and Kubernetes. I work across the full stack, from the LLM and evaluation layer (LangSmith) down to CI/CD and deployment.
 
-🤝 **Looking to collaborate on:**  
-Projects related to AI, AI automations (workflows, agents, and voice AI), cloud-native architectures, and innovative software integrations.
+🤝 **Open to collaborate on:**  
+AI products, agent and voice-AI systems, cloud-native architectures, and software integrations.
 
 📚 **Currently studying:**  
-Advanced AI technologies, Applied Machine Learning, LLM4SE for workflows and voice AI agents.
+LLMs for Software Engineering (LLM4SE), applied machine learning, and agent & voice-AI systems.
 
 💬 **Ask me about:**  
-Python for automation and data analysis, API integrations, Vapi & ElevenLabs for AI voice assistants, LangSmith for LLM observability, Kubernetes-based deployments, SIP integrations with Linphone, and the MCP protocol for LLMs.
+Python for automation and data, API integrations, building voice agents with Vapi and ElevenLabs, LLM observability with LangSmith, Kubernetes deployments, SIP integrations with Linphone, and the MCP protocol for LLMs.
 
 🎉 **Fun fact:**  
-I love exploring new tech stacks and discussing business opportunities in software, AI, and cloud infrastructure.
+I like pushing new AI tools into production the week they ship.
 
 ---
 
-## 🌐 Social
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-romano-77b7552b2/)
 
@@ -31,9 +33,72 @@ I love exploring new tech stacks and discussing business opportunities in softwa
 
 ## ⚙️ Tech Stack
 
-| 💻 Programming Languages | 🧱 Frameworks & Libraries | ⚒️ DevOps & Platforms | 🎨 Tools & Software |
-|--------------------------|---------------------------|------------------------------|---------------------|
-| ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Assembly](https://img.shields.io/badge/assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Shell](https://img.shields.io/badge/shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) | ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-2E2E8A?style=for-the-badge&logo=python&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-0E76A8?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/apache%20hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white) ![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Waldiez](https://img.shields.io/badge/waldiez-412991?style=for-the-badge&logo=waldiez&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![OpenAI Platform](https://img.shields.io/badge/OpenAI%20Platform-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20(Anthropic)-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FFAF00?style=for-the-badge&logo=typeorm&logoColor=white) ![Aruba](https://img.shields.io/badge/aruba-F78D2C?style=for-the-badge&logo=proxmox&logoColor=white) ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Twilio](https://img.shields.io/badge/twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) ![SendGrid](https://img.shields.io/badge/sendgrid-0085CA?style=for-the-badge&logo=sendgrid&logoColor=white) ![Google Cloud Console](https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Linphone](https://img.shields.io/badge/Linphone%20(SIP)-00ADEF?style=for-the-badge&logo=linphone&logoColor=white) | ![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logo=voiceflow&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-FF66CC?style=for-the-badge&logo=lovable&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white) ![Google Analytics](https://img.shields.io/badge/google_analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white) |
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🤖 AI & LLM Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E2E8A?style=for-the-badge&logo=python&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-0E76A8?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20(Anthropic)-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logo=voiceflow&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Regolo.ai](https://img.shields.io/badge/Regolo.ai-6C3EF5?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Protocol-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🧱 Frameworks & Backend
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### 📊 Data & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/apache%20hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
+
+### 🐳 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Linphone (SIP)](https://img.shields.io/badge/Linphone%20(SIP)-00ADEF?style=for-the-badge&logo=linphone&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/google_analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
 
