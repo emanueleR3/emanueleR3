@@ -100,7 +100,6 @@ I like pushing new AI tools into production the week they ship.
 ![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/google_analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanueleR3/emanueleR3/output/github-contribution-grid-snake-dark.svg">
@@ -108,5 +107,6 @@ I like pushing new AI tools into production the week they ship.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emanueleR3/emanueleR3/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p>&nbsp;</p>
 I'm open to new opportunities and collaborations!  
 Feel free to reach out 🚀
