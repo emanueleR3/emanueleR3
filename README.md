@@ -102,5 +102,13 @@ I like pushing new AI tools into production the week they ship.
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanueleR3/emanueleR3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanueleR3/emanueleR3/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emanueleR3/emanueleR3/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 I'm open to new opportunities and collaborations!  
 Feel free to reach out 🚀
